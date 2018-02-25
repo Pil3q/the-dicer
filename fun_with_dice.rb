@@ -9,11 +9,11 @@ when "roll the dice"
   roll = rand(1...7)
   case roll
   when 1..3
-  puts "You rolled #{roll}, schame"
+  puts "You rolled #{roll}, shame!!!"
   puts for_user2
   print for_user
   when 4..5
-  puts "You rolled #{roll}, Could be better"
+  puts "You rolled #{roll}, Could be better..."
   puts for_user2
   print for_user
   when 6
